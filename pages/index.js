@@ -14,6 +14,7 @@ export default function Home() {
         <Header title="Welcome to Team galaxy!" />
         <p className="description">
          "we strive to make a better os."
+          cy.contains('Orbit OS', 'https://orbit-os.netlify.app').click();
         </p>
       </main>
 
