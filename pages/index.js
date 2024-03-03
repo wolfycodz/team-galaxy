@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title Team galaxy </title>
+        <title title=Team galaxy</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
