@@ -16,7 +16,7 @@ export default function Home() {
         <p className="description">
           We strive to make a better os.
           <Link href="https://orbit-os.netlify.com" passHref>
-            <a>Orbit OS beta</a>
+            <a> Orbit OS beta</a>
           </Link>
         </p>
       </main>
