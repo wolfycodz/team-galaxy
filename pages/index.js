@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Team galaxy!" />
         <p className="description">
-         "we strive to make GOOD os's."
+         "we strive to make a better os."
         </p>
       </main>
 
